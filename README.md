@@ -35,6 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0nicah&show_icons=true&locale=en" alt="m0nicah" /></p>
 
-<a href="https://app.daily.dev/m0nica"><img src="https://api.daily.dev/devcards/9fd4de16ff064750b54c9530928c4481.png?r=typ" width="400" alt="Monica Masae's Dev Card"/></a>
+<a href="https://app.daily.dev/m0nica"><img src="https://api.daily.dev/devcards/9fd4de16ff064750b54c9530928c4481.png?r=typ" width="200" alt="Monica Masae's Dev Card"/></a>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0nicah&" alt="m0nicah" /></p> -->
