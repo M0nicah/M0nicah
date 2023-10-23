@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **monica.w.masae@gmail.com**
 
-- ⚡ Fun fact **DC Comics fan**
+- ⚡ Fun fact **DC fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
