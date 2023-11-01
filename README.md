@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0nicah&show_icons=true&locale=en&layout=compact" alt="m0nicah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0nicah&show_icons=true&locale=en" alt="m0nicah" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0nicah&show_icons=true&locale=en" alt="m0nicah" /></p>-->
 
 <a href="https://app.daily.dev/m0nica"><img src="https://api.daily.dev/devcards/9fd4de16ff064750b54c9530928c4481.png?r=typ" width="200" alt="Monica Masae's Dev Card"/></a>
 
