@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python, TypeScript**
 
-- 👯 I’m looking to collaborate on **Angular Projects**
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **monica.w.masae@gmail.com**
